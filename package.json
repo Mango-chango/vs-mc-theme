@@ -1,0 +1,27 @@
+{
+  "name": "mangochangodarkhighcontrasttheme",
+  "displayName": "MangoChango Dark Theme (High Contrast)",
+  "description": "MangoChango Dark Theme (High Contrast)",
+  "publisher": "MangoChango",
+  "author": "Lino Garcia Vallejo",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mango-chango/vs-mc-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MangoChango Dark Theme (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/MangoChango Dark Theme (High Contrast)-color-theme.json"
+      }
+    ]
+  }
+}
