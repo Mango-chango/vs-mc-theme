@@ -2,9 +2,9 @@
   "name": "mangochangodarkhighcontrasttheme",
   "displayName": "MangoChango Dark Theme (High Contrast)",
   "description": "MangoChango Dark Theme (High Contrast)",
-  "publisher": "MangoChango",
+  "publisher": "linogarciavallejo",
   "author": "Lino Garcia Vallejo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mango-chango/vs-mc-theme.git"
